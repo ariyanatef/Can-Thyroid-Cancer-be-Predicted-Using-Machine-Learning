@@ -1,6 +1,6 @@
 # Can-Thyroid-Cancer-be-Predicted-Using-Machine-Learning-
 This was a project I made during my senior year of high school (Nov. 2024-Jan. 2025). This is a machine learning project built on Python and was used
-to see if it was possible to predict thyroid cancer.
+to see if it was possible to predict thyroid cancer using the Random Forest model.
 
 # What is Thyroid Cancer?
 
